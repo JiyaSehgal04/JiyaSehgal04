@@ -22,6 +22,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
 
+      - name: recolor contribution cells to the profile's red theme
+        run: |
+          sed -i -e 's/#0e4429/#4d1414/gI' -e 's/#006d32/#8b1e1e/gI' -e 's/#26a641/#d93636/gI' -e 's/#39d353/#ff4d4d/gI' dist/pacman-contribution-graph-dark.svg
+          sed -i -e 's/#9be9a8/#ffc2c2/gI' -e 's/#40c463/#ff8080/gI' -e 's/#30a14e/#e03c3c/gI' -e 's/#216e39/#a31515/gI' dist/pacman-contribution-graph.svg
+
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
