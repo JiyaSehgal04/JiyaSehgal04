@@ -11,15 +11,11 @@
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=JiyaSehgal04&theme=aura" alt="JiyaSehgal04" /></a> </p>
-
-###
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JiyaSehgal04.JiyaSehgal04" />
-</div>
-
-###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JiyaSehgal04&label=Profile%20views&color=0e75b6&style=flat" alt="JiyaSehgal04" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JiyaSehgal04&label=Profile%20views&color=ff4d4d&style=flat" alt="profile views" />
+  <a href="https://github.com/JiyaSehgal04?tab=followers"><img src="https://img.shields.io/github/followers/JiyaSehgal04?label=Followers&style=flat&color=ff4d4d" alt="followers" /></a>
+  <a href="https://github.com/JiyaSehgal04?tab=repositories"><img src="https://img.shields.io/badge/Repos-35-ff4d4d?style=flat" alt="repos" /></a>
+</p>
 
 - 💼 Former **Software Engineering Intern @ Bank of New York (BNY)**, where I worked on enterprise systems and performance optimization.
 - 🎓 Currently pursuing **Computer Science Engineering @ SRMIST**.
@@ -30,15 +26,20 @@
 
 <br clear="both">
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JiyaSehgal04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" />
+## `> GITHUB ANALYTICS`
 
-  <img src="https://streak-stats.demolab.com?user=JiyaSehgal04&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiyaSehgal04&theme=dracula" width="100%" alt="contribution timeline" />
 </div>
 
-###
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiyaSehgal04&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiyaSehgal04&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="top languages" />
+</div>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/29/d2/5c/29d25ccd5a0e64ac277f56d0701ef74c.gif" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JiyaSehgal04&theme=dracula&hide_border=true&border_radius=5" alt="streak stats" />
+</div>
 
 ###
 
