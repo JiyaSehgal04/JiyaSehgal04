@@ -33,7 +33,7 @@
 ## `> GITHUB ANALYTICS`
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiyaSehgal04&theme=dracula" width="100%" alt="contribution timeline" />
+  <img src="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/contrib-graph.svg" width="100%" alt="weekly contribution activity" />
 </div>
 
 <div align="center">
@@ -55,11 +55,12 @@
   <a href="mailto:sehgaljiya04@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <!-- Replace YOUR-LINKEDIN-ID and uncomment
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="https://www.linkedin.com/in/jiya-sehgal-690280281/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  -->
+  <a href="https://open.spotify.com/user/o9ove7zvxzrboezcxav0clsqg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo" />
+  </a>
 </div>
 
 ###
