@@ -33,12 +33,16 @@
 ## `> GITHUB ANALYTICS`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JiyaSehgal04&show_icons=true&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&bg_color=161b22&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9&ring_color=ff4d4d" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiyaSehgal04&layout=compact&langs_count=8&hide_border=true&bg_color=161b22&title_color=ff4d4d&text_color=c9d1d9" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiyaSehgal04&theme=dracula" width="100%" alt="contribution timeline" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JiyaSehgal04&hide_border=true&border_radius=6&background=161b22&ring=ff4d4d&fire=ff4d4d&currStreakNum=ff4d4d&currStreakLabel=ff4d4d&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="streak stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiyaSehgal04&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiyaSehgal04&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JiyaSehgal04&theme=dracula&hide_border=true&border_radius=5" alt="streak stats" />
 </div>
 
 ###
@@ -46,14 +50,14 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://github.com/JiyaSehgal04" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=161b22&logoColor=ff4d4d&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
   <a href="mailto:sehgaljiya04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=161b22&logoColor=ff4d4d&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <!-- Replace YOUR-LINKEDIN-ID and uncomment
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=161b22&logoColor=ff4d4d&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   -->
 </div>
@@ -76,12 +80,12 @@ A forecasting system that predicts blood demand for blood banks, paired with OCR
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=ff4d4d)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=ff4d4d)
-![OCR](https://img.shields.io/badge/OCR-161b22?style=flat-square&logo=googlelens&logoColor=ff4d4d)
-![Forecasting](https://img.shields.io/badge/Time%20Series-161b22?style=flat-square&logo=plotly&logoColor=ff4d4d)
+![Python](https://img.shields.io/badge/Python-660000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-660000?style=flat-square&logo=javascript&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-660000?style=flat-square&logo=googlelens&logoColor=white)
+![Forecasting](https://img.shields.io/badge/Time%20Series-660000?style=flat-square&logo=plotly&logoColor=white)
 
-[![status](https://img.shields.io/badge/●%20Active-ff4d4d?style=flat-square)](https://github.com/JiyaSehgal04/Blood_bank_Prediction)
+[![status](https://img.shields.io/badge/●%20Active-white?style=flat-square&labelColor=19e6af)](https://github.com/JiyaSehgal04/Blood_bank_Prediction)
 
 </div>
 </td>
@@ -97,11 +101,11 @@ Ask questions about your data in plain English and get SQL, plus the answers, ba
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=ff4d4d)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=ff4d4d)
-![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=ff4d4d)
+![Python](https://img.shields.io/badge/Python-660000?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-660000?style=flat-square&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-660000?style=flat-square&logo=langchain&logoColor=white)
 
-[![status](https://img.shields.io/badge/●%20In%20Progress-ff4d4d?style=flat-square)](https://github.com/JiyaSehgal04/InsightSQL)
+[![status](https://img.shields.io/badge/●%20In%20Progress-white?style=flat-square&labelColor=19cae6)](https://github.com/JiyaSehgal04/InsightSQL)
 
 </div>
 </td>
@@ -117,11 +121,11 @@ Classifies network traffic into threat categories using machine learning, compar
 
 <div align="center">
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=ff4d4d)
-![Pandas](https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=ff4d4d)
-![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=ff4d4d)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-660000?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-660000?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-660000?style=flat-square&logo=jupyter&logoColor=white)
 
-[![status](https://img.shields.io/badge/●%20Completed-ff4d4d?style=flat-square)](https://github.com/JiyaSehgal04/Cybersecurity-Threat-Classification-Using-Machine-Learning)
+[![status](https://img.shields.io/badge/●%20Completed-white?style=flat-square&labelColor=19e6af)](https://github.com/JiyaSehgal04/Cybersecurity-Threat-Classification-Using-Machine-Learning)
 
 </div>
 </td>
@@ -144,7 +148,7 @@ Classifies network traffic into threat categories using machine learning, compar
 ### ⚡ Core Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=700&color=FF4D4D&center=true&vCenter=true&width=600&height=40&lines=MERN+Stack;Angular;Java+%2B+Spring+Boot" alt="core stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=700&color=19E6AF&center=true&vCenter=true&width=600&height=40&lines=MERN+Stack;Angular;Java+%2B+Spring+Boot" alt="core stack" />
 </p>
 
 <table align="center">
@@ -161,37 +165,37 @@ Classifies network traffic into threat categories using machine learning, compar
 </table>
 
 ### 🛠️ Programming Languages
-![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=ff4d4d)
-![Java](https://img.shields.io/badge/java-161b22?style=for-the-badge&logo=openjdk&logoColor=ff4d4d)
-![JavaScript](https://img.shields.io/badge/javascript-161b22?style=for-the-badge&logo=javascript&logoColor=ff4d4d)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=ff4d4d)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=mysql&logoColor=ff4d4d)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=Html5&logoColor=ff4d4d)
-![CSS3](https://img.shields.io/badge/css3-161b22?style=for-the-badge&logo=css&logoColor=ff4d4d)
-![React](https://img.shields.io/badge/react-161b22?style=for-the-badge&logo=react&logoColor=ff4d4d)
-![Angular](https://img.shields.io/badge/angular-161b22?style=for-the-badge&logo=angular&logoColor=ff4d4d)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=Html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### ⚙️ Backend & Infrastructure
-![NodeJS](https://img.shields.io/badge/node.js-161b22?style=for-the-badge&logo=node.js&logoColor=ff4d4d)
-![Express.js](https://img.shields.io/badge/express.js-161b22?style=for-the-badge&logo=express&logoColor=ff4d4d)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-161b22?style=for-the-badge&logo=springboot&logoColor=ff4d4d)
-![Docker](https://img.shields.io/badge/docker-161b22?style=for-the-badge&logo=docker&logoColor=ff4d4d)
-![Git](https://img.shields.io/badge/git-161b22?style=for-the-badge&logo=git&logoColor=ff4d4d)
-![Railway](https://img.shields.io/badge/Railway-161b22?style=for-the-badge&logo=railway&logoColor=ff4d4d)
-![Vercel](https://img.shields.io/badge/vercel-161b22?style=for-the-badge&logo=vercel&logoColor=ff4d4d)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=ff4d4d)
-![MySQL](https://img.shields.io/badge/mysql-161b22?style=for-the-badge&logo=mysql&logoColor=ff4d4d)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Data Science & AI
-![NumPy](https://img.shields.io/badge/numpy-161b22?style=for-the-badge&logo=numpy&logoColor=ff4d4d)
-![Pandas](https://img.shields.io/badge/pandas-161b22?style=for-the-badge&logo=pandas&logoColor=ff4d4d)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikit-learn&logoColor=ff4d4d)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-161b22?style=for-the-badge&logo=Matplotlib&logoColor=ff4d4d)
-![OpenCV](https://img.shields.io/badge/opencv-161b22?style=for-the-badge&logo=opencv&logoColor=ff4d4d)
-![LangChain](https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=ff4d4d)
-![Jupyter](https://img.shields.io/badge/jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=ff4d4d)
-![Streamlit](https://img.shields.io/badge/Streamlit-161b22?style=for-the-badge&logo=streamlit&logoColor=ff4d4d)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
