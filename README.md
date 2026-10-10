@@ -33,16 +33,16 @@
 ## `> GITHUB ANALYTICS`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/contrib-graph.svg" width="100%" alt="weekly contribution activity" />
+  <img src="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/contrib-graph.svg" width="900" alt="weekly contribution activity" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiyaSehgal04&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiyaSehgal04&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="top languages" />
+  <img width="445" src="https://github-readme-stats.vercel.app/api?username=JiyaSehgal04&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&hide=prs,issues&card_width=445&border_radius=6" alt="github stats" />
+  <img width="445" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiyaSehgal04&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=445&border_radius=6" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JiyaSehgal04&theme=dracula&hide_border=true&border_radius=5" alt="streak stats" />
+  <img width="900" src="https://streak-stats.demolab.com?user=JiyaSehgal04&theme=dracula&hide_border=true&border_radius=6&card_width=900&card_height=200&hide_total_contributions=true" alt="streak stats" />
 </div>
 
 ###
