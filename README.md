@@ -5,8 +5,12 @@
   </picture>
 </a>
 
+<h1 align="center">Jiya Sehgal</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=FF4D4D&center=true&vCenter=true&random=false&width=700&height=50&lines=%3E+Hi+%F0%9F%91%8B%2C+I'm+Jiya+Sehgal;%3E+CSE+%40+SRMIST;%3E+Ex-SWE+Intern+%40+Bank+of+New+York;%3E+Building+AI+%26+multi-agent+systems;%3E+Problem+%E2%86%92+Prototype+%E2%86%92+Product+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <b>Computer Science Engineering @ SRMIST</b> &nbsp;·&nbsp; <b>Former Software Engineering Intern @ Bank of New York</b>
+  <br>
+  AI/ML &nbsp;·&nbsp; Multi-Agent Systems &nbsp;·&nbsp; Full Stack Development
 </p>
 
 ###
