@@ -1,4 +1,4 @@
-name: generate snake & arcade contribution graphs
+name: generate pac-man contribution graph
 
 on:
   schedule: # every 12 hours
@@ -16,19 +16,11 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate pacman & breakout SVGs
+      - name: generate pac-man SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout"
-
-      - name: generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          games: "pacman"
 
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

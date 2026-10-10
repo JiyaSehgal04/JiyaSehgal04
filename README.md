@@ -129,37 +129,15 @@ Classifies network traffic into threat categories using machine learning, compar
 </tr>
 </table>
 
-## `> PLAYING WITH MY CONTRIBUTIONS` 🕹️
+## `> PAC-MAN ATE MY CONTRIBUTIONS` 👾
 
-<details open>
-<summary><b>👾 Pac-Man</b></summary>
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/pacman-contribution-graph.svg">
   <img alt="pac-man eating my contribution graph" src="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/pacman-contribution-graph.svg">
 </picture>
-</details>
 
-<details>
-<summary><b>🐍 Snake</b></summary>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/github-snake.svg">
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/github-snake.svg">
-</picture>
-</details>
 
-<details>
-<summary><b>🧱 Breakout</b></summary>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/breakout-contribution-graph.svg">
-  <img alt="breakout on my contribution graph" src="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/breakout-contribution-graph.svg">
-</picture>
-</details>
 
 ## 💻 Tech Stack
 
@@ -217,5 +195,3 @@ Classifies network traffic into threat categories using machine learning, compar
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,40:990000,80:660000,100:330000&height=140&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=70"/>
