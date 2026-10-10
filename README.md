@@ -162,6 +162,25 @@ Classifies network traffic into threat categories using machine learning, compar
 
 ## 💻 Tech Stack
 
+### ⚡ Core Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=700&color=19E6AF&center=true&vCenter=true&width=600&height=40&lines=MERN+Stack;Angular;Java+%2B+Spring+Boot" alt="core stack" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<b>🟢 MERN Stack</b><br><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="MongoDB, Express, React, Node.js" /></a>
+</td>
+<td align="center" width="50%">
+<b>☕ Java · Spring Boot · Angular</b><br><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,angular,ts&theme=dark" alt="Java, Spring Boot, Angular, TypeScript" /></a>
+</td>
+</tr>
+</table>
+
 ### 🛠️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -176,6 +195,8 @@ Classifies network traffic into threat categories using machine learning, compar
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### ⚙️ Backend & Infrastructure
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
