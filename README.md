@@ -37,8 +37,7 @@
 </div>
 
 <div align="center">
-  <img width="445" src="https://github-readme-stats.vercel.app/api?username=JiyaSehgal04&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&hide=prs,issues&card_width=445&border_radius=6" alt="github stats" />
-  <img width="445" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiyaSehgal04&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=445&border_radius=6" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/JiyaSehgal04/JiyaSehgal04/output/stats-card.svg" width="900" alt="stats overview: languages and milestones" />
 </div>
 
 <div align="center">
