@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" font-family="'Segoe UI', Ubuntu, sans-serif">
+<defs>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  .seg {animation: seg 1.4s ease-out both;}
+  @keyframes seg {from {stroke-dasharray: 0 10000;}}
+  .fade {opacity: 0; animation: fade .6s ease-out forwards;}
+  @keyframes fade {to {opacity: 1;}}
+</style>
+<rect width="900" height="300" rx="8" fill="#282a36"/>
+<text x="28" y="40" fill="#ff79c6" font-size="20" font-weight="700">Stats Overview</text>
+<text x="872" y="40" fill="#6272a4" font-size="12" text-anchor="end">languages by code size · rings show progress to the next milestone</text>
+<line x1="470" x2="470" y1="70" y2="270" stroke="#44475a"/>
+
+<circle class="seg" style="animation-delay:0.00s" cx="150" cy="170" r="82" fill="none" stroke="#ff79c6" stroke-width="24" stroke-dasharray="312.1 515.2" stroke-dashoffset="-0.0" transform="rotate(-90 150 170)"><title>Jupyter Notebook: 61.0%</title></circle>
+<circle class="seg" style="animation-delay:0.12s" cx="150" cy="170" r="82" fill="none" stroke="#bd93f9" stroke-width="24" stroke-dasharray="100.4 515.2" stroke-dashoffset="-314.1" transform="rotate(-90 150 170)"><title>JavaScript: 19.9%</title></circle>
+<circle class="seg" style="animation-delay:0.24s" cx="150" cy="170" r="82" fill="none" stroke="#8be9fd" stroke-width="24" stroke-dasharray="32.3 515.2" stroke-dashoffset="-416.5" transform="rotate(-90 150 170)"><title>Python: 6.7%</title></circle>
+<circle class="seg" style="animation-delay:0.36s" cx="150" cy="170" r="82" fill="none" stroke="#50fa7b" stroke-width="24" stroke-dasharray="22.8 515.2" stroke-dashoffset="-450.8" transform="rotate(-90 150 170)"><title>CSS: 4.8%</title></circle>
+<circle class="seg" style="animation-delay:0.48s" cx="150" cy="170" r="82" fill="none" stroke="#ffb86c" stroke-width="24" stroke-dasharray="21.9 515.2" stroke-dashoffset="-475.6" transform="rotate(-90 150 170)"><title>HTML: 4.6%</title></circle>
+<circle class="seg" style="animation-delay:0.60s" cx="150" cy="170" r="82" fill="none" stroke="#f1fa8c" stroke-width="24" stroke-dasharray="13.4 515.2" stroke-dashoffset="-499.5" transform="rotate(-90 150 170)"><title>TypeScript: 3.0%</title></circle>
+<circle class="seg" style="animation-delay:0.72s" cx="150" cy="170" r="82" fill="none" stroke="#ff5555" stroke-width="24" stroke-dasharray="0.0 515.2" stroke-dashoffset="-514.9" transform="rotate(-90 150 170)"><title>Other: 0.1%</title></circle>
+<text x="150" y="166" fill="#f8f8f2" font-size="12" font-weight="700" text-anchor="middle">Jupyter Notebook</text>
+<text x="150" y="186" fill="#6272a4" font-size="11" text-anchor="middle">top language · 9 total</text>
+<g class="fade" style="animation-delay:0.40s"><rect x="270" y="82" width="12" height="12" rx="3" fill="#ff79c6"/><text x="290" y="92" fill="#f8f8f2" font-size="13">Jupyter Notebook</text><text x="445" y="92" fill="#6272a4" font-size="13" text-anchor="end">61.0%</text></g>
+<g class="fade" style="animation-delay:0.50s"><rect x="270" y="108" width="12" height="12" rx="3" fill="#bd93f9"/><text x="290" y="118" fill="#f8f8f2" font-size="13">JavaScript</text><text x="445" y="118" fill="#6272a4" font-size="13" text-anchor="end">19.9%</text></g>
+<g class="fade" style="animation-delay:0.60s"><rect x="270" y="134" width="12" height="12" rx="3" fill="#8be9fd"/><text x="290" y="144" fill="#f8f8f2" font-size="13">Python</text><text x="445" y="144" fill="#6272a4" font-size="13" text-anchor="end">6.7%</text></g>
+<g class="fade" style="animation-delay:0.70s"><rect x="270" y="160" width="12" height="12" rx="3" fill="#50fa7b"/><text x="290" y="170" fill="#f8f8f2" font-size="13">CSS</text><text x="445" y="170" fill="#6272a4" font-size="13" text-anchor="end">4.8%</text></g>
+<g class="fade" style="animation-delay:0.80s"><rect x="270" y="186" width="12" height="12" rx="3" fill="#ffb86c"/><text x="290" y="196" fill="#f8f8f2" font-size="13">HTML</text><text x="445" y="196" fill="#6272a4" font-size="13" text-anchor="end">4.6%</text></g>
+<g class="fade" style="animation-delay:0.90s"><rect x="270" y="212" width="12" height="12" rx="3" fill="#f1fa8c"/><text x="290" y="222" fill="#f8f8f2" font-size="13">TypeScript</text><text x="445" y="222" fill="#6272a4" font-size="13" text-anchor="end">3.0%</text></g>
+<g class="fade" style="animation-delay:1.00s"><rect x="270" y="238" width="12" height="12" rx="3" fill="#ff5555"/><text x="290" y="248" fill="#f8f8f2" font-size="13">Other</text><text x="445" y="248" fill="#6272a4" font-size="13" text-anchor="end">0.1%</text></g>
+<circle cx="534.4" cy="160" r="36" fill="none" stroke="#343746" stroke-width="8"/>
+<circle class="seg" style="animation-delay:0.30s" cx="534.4" cy="160" r="36" fill="none" stroke="#ff79c6" stroke-width="8" stroke-linecap="round" stroke-dasharray="140.2 226.2" transform="rotate(-90 534.4 160)" filter="url(#glow)"/>
+<text x="534.4" y="168" fill="#f8f8f2" font-size="22" font-weight="700" text-anchor="middle">31</text>
+<text x="534.4" y="226" fill="#ff79c6" font-size="13" font-weight="600" text-anchor="middle">Repositories</text>
+<text x="534.4" y="244" fill="#6272a4" font-size="11" text-anchor="middle">next: 50</text>
+<circle cx="633.1" cy="160" r="36" fill="none" stroke="#343746" stroke-width="8"/>
+<circle class="seg" style="animation-delay:0.45s" cx="633.1" cy="160" r="36" fill="none" stroke="#bd93f9" stroke-width="8" stroke-linecap="round" stroke-dasharray="203.6 226.2" transform="rotate(-90 633.1 160)" filter="url(#glow)"/>
+<text x="633.1" y="168" fill="#f8f8f2" font-size="22" font-weight="700" text-anchor="middle">90</text>
+<text x="633.1" y="226" fill="#bd93f9" font-size="13" font-weight="600" text-anchor="middle">Commits</text>
+<text x="633.1" y="244" fill="#6272a4" font-size="11" text-anchor="middle">next: 100</text>
+<circle cx="731.9" cy="160" r="36" fill="none" stroke="#343746" stroke-width="8"/>
+<circle class="seg" style="animation-delay:0.60s" cx="731.9" cy="160" r="36" fill="none" stroke="#8be9fd" stroke-width="8" stroke-linecap="round" stroke-dasharray="45.2 226.2" transform="rotate(-90 731.9 160)" filter="url(#glow)"/>
+<text x="731.9" y="168" fill="#f8f8f2" font-size="22" font-weight="700" text-anchor="middle">1</text>
+<text x="731.9" y="226" fill="#8be9fd" font-size="13" font-weight="600" text-anchor="middle">Stars</text>
+<text x="731.9" y="244" fill="#6272a4" font-size="11" text-anchor="middle">next: 5</text>
+<circle cx="830.6" cy="160" r="36" fill="none" stroke="#343746" stroke-width="8"/>
+<circle class="seg" style="animation-delay:0.75s" cx="830.6" cy="160" r="36" fill="none" stroke="#50fa7b" stroke-width="8" stroke-linecap="round" stroke-dasharray="135.7 226.2" transform="rotate(-90 830.6 160)" filter="url(#glow)"/>
+<text x="830.6" y="168" fill="#f8f8f2" font-size="22" font-weight="700" text-anchor="middle">6</text>
+<text x="830.6" y="226" fill="#50fa7b" font-size="13" font-weight="600" text-anchor="middle">Followers</text>
+<text x="830.6" y="244" fill="#6272a4" font-size="11" text-anchor="middle">next: 10</text>
+</svg>
